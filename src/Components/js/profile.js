@@ -9,7 +9,7 @@ import {
     MDBCardImage,
 } from 'mdb-react-ui-kit';
 import NavBar from './Navbar';
-import '../css/Profile.css';
+import '../css/profile.css';
 
 export default function Profile() {
     return (

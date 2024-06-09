@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import { Navigate } from 'react-router-dom';
-import '../css/Login.css';
+import '../css/login.css';
 import BackgroundImage from './Background';
 import Logo from './Logo';
 import Navbar from './Navbar';

@@ -1,5 +1,5 @@
 import React from'react';
-import '../css/Home.css'
+import '../css/home.css'
 import NavBar from './Navbar'
 import CarouselHome from './Carousel';
 import BackgroundImage from './Background';

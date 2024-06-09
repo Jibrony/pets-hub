@@ -1,4 +1,4 @@
-import "../css/SignUp.css"
+import "../css/signup.css"
 import BackgroundImage from './Background';
 import NavBar from "./Navbar";
 

@@ -1,5 +1,5 @@
 import React, { useEffect } from 'react';
-import '../css/Home.css';
+import '../css/home.css';
 
 function BackgroundImage({ src }) {
   useEffect(() => {
